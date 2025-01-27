@@ -1,0 +1,9 @@
+{
+    // Markdown ファイル用の設定を指定
+    "[markdown]": {
+      // デフォルトのフォーマッターとして Prettier を指定
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      // ファイル保存時に自動的にフォーマットを適用
+      "editor.formatOnSave": true
+    }
+  }
